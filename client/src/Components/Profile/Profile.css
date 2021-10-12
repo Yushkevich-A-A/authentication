@@ -1,0 +1,22 @@
+.profile-user {
+    display: flex;
+    align-items: center;
+}
+
+.login {
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.user-img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.logout {
+    font-size: 18px;
+    padding: 5px;
+    color:red;
+    border: 2px solid red;
+    border-radius: 5px;
+}

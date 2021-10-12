@@ -1,0 +1,22 @@
+.news {
+    overflow: hidden;
+    width: 300px;
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.news-img {
+    width: 100%;
+}
+
+.description {
+    padding: 30px;
+}
+
+.title {
+    font-weight: 600;
+    margin-bottom: 30px;
+}

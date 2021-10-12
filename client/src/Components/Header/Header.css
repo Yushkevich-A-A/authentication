@@ -1,0 +1,13 @@
+.header {
+    background-color: rgb(245, 245, 245);
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-h2 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 0;
+}

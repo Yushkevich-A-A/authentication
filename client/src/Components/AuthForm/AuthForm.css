@@ -1,0 +1,27 @@
+.auth-form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.block-auth {
+    margin-right: 10px;
+}
+
+.auth-input {
+    padding: 5px;
+    border: 2px solid #c2c2c2;
+    border-radius: 5px;
+}
+
+.auth-input:focus-visible {
+    outline: none;
+}
+
+.button-submit {
+    background-color: #fff;
+    padding: 5px 10px;
+    border: 2px solid #26bd00;
+    border-radius: 5px;
+    color: #26bd00;
+}
